@@ -82,6 +82,6 @@ char *basename(char *path);
     - 返回0：表示没有复制任何数据. 
     - 返回-1：表示失败,并设置errno.
 
-参考：
-1、《Linux高性能服务器编程》    
+参考：  
+1、《Linux高性能服务器编程》;    
 2、https://github.com/markparticle/CharRoom
